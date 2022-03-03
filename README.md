@@ -11,3 +11,9 @@
 Vec_mat_graph.mlx and Vec_mat_graph.m sumarize how to use/plot matrixes in Matlab
 
 linAlg.ipynb is a consice review of linear algebra using python. It shows how to plot vectors using pyplot.
+
+## Robot Morpholgy
+
+`<Slides>` : <>
+
+`<Videos>` : <https://drive.google.com/drive/folders/1K-gcn8ocu-ngnKwTMbKitGKpN6nTFRVw?usp=sharing>
