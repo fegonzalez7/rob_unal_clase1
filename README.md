@@ -22,6 +22,6 @@ linAlg.ipynb is a consice review of linear algebra using python. It shows how to
 
 `<Slides>` : <https://drive.google.com/file/d/1XP4n5ZgBT55UwUW3xc96lqKbTH75vrPQ/view?usp=sharing>
 
-`<Industrial robots ds>` : <>
+`<Industrial robots ds>` : <https://drive.google.com/drive/folders/1zxPI9ACqyux7lpYoFJikorNy4-JXmmwf?usp=sharing>
 
 `<Videos>` : <https://drive.google.com/drive/folders/1K-gcn8ocu-ngnKwTMbKitGKpN6nTFRVw?usp=sharing>
